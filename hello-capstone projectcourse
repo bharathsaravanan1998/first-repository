@@ -1,1 +1,4 @@
 print('Hello Capstone Project Course!')
+#this notebook will be used to do the capstone project for ibm datasccience specialization in coursera
+import pandas as pd
+import numpy as np
